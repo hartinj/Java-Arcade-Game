@@ -1,0 +1,3 @@
+Java-Arcade-Game
+----------------
+This repository contains four Java classes created to simulate the classic Atari arcade game [Break Out](http://en.wikipedia.org/wiki/Breakout_%28video_game%29). I made this game as a final project in one of my first computer science courses at Boston University. The code could benefit from some cleanup and commenting and the game-play could certainly be enhanced by adding additional features like optionally changing the ball speed. I might affect these changes in the future. Feel free to use this code and edit it however you please.
